@@ -29,6 +29,8 @@ https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=Fil
 https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
 https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
@@ -84,6 +86,18 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="INTERNATIONAL🌐",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO CHANELS🇵🇭",DZBR Bible Radio 531
 https://stream.radio.co/se9de95c10/listen
