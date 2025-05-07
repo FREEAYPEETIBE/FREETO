@@ -113,16 +113,6 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="National.Geographic.US.-.Eastern.us",National Geographic US - Eastern (SD)
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
@@ -273,6 +263,16 @@ https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",CURIOSITY STREAM
 https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
