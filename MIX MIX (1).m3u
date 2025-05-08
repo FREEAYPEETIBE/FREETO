@@ -25,13 +25,13 @@ https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=F
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CELESTIAL MOVIE
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",CINEMA ONE GLOBAL
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMA ONE GLOBAL
 http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",CINEMA ONE PH
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMA ONE PH
 http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",CINEMO GLOBAL
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMO GLOBAL
 http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",CINEMO PH
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMO PH
 http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
 https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8
@@ -41,9 +41,9 @@ https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=Fil
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",IBC
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",HEART OF ASIA
+#EXTINF:-1 tvg-logo="tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",HEART OF ASIA
 https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",I HEART MOVIES
+#EXTINF:-1 tvg-logo="tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",I HEART MOVIES
 https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
 https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
@@ -55,9 +55,9 @@ https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=148
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",ONE SPORTS+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",ONE SPORTS+
 http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭", RPTV
+#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -65,9 +65,9 @@ http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=6d5d9
 http://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id=".ph" tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",TV5
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",TV5
 http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
+#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
 http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
