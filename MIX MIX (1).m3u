@@ -158,8 +158,6 @@ https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE CHANNEL
-‎http://exm3u.extraott.com:900/live/1103581436/4099381829/186845.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
