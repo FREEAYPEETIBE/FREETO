@@ -175,16 +175,6 @@ https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern (SD)
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE Network
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
@@ -304,6 +294,16 @@ https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v15.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="ANIME/CARTOONS👽" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/TeenNickEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="ANIME/CARTOONS👽" tvg-id="TeenNick.-.Eastern.us",TeenNick - Eastern (SD)
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v17.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="MOVIE CHANNELS📺" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX - Eastern Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
