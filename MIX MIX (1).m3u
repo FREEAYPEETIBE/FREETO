@@ -1,8 +1,8 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="NBA🏀",NBA LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/TGsXrZy.png" group-title="NBA🏀",NBA LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u82f8a60f
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA🏀" tvg-id="NBA.TV.USA.us",NBA TV USA
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -15,120 +15,119 @@ https://v17.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v17.thetvapp.to/hls/NBATV/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",4K TRAVEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",4K TRAVEL
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",A2Z/ABS CBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",A2Z/ABS CBN
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",ALL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",ALL TV
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",BUKO CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",BUKO CHANNEL
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CELESTIAL MOVIE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",CELESTIAL MOVIE
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMA ONE GLOBAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",CINEMA ONE GLOBAL
 http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMA ONE PH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",CINEMA ONE PH
 http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMO GLOBAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",CINEMO GLOBAL
 http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",CINEMO PH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",CINEMO PH
 http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
 https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",GMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",GMA
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",GTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",GTV
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",IBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",IBC
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",HEART OF ASIA
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",HEART OF ASIA
 https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",I HEART MOVIES
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="PH CHANNELS🇵🇭",I HEART MOVIES
 https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
 https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
 https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",PBA RUSH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",PBA RUSH
 http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭", One News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",ONE SPORTS+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",ONE SPORTS+
 http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭", RPTV
+#EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="PH CHANNELS🇵🇭", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 http://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",Thrillers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",TV5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",TV5
 http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
 http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY"
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
 https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BOOMERANG TV
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CARTOONITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CARTOONITO
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICAN PICKERS
 https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title=NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title=NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
 https://tv.iyadix.workers.dev/57256.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2499968=15.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT NETWORK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT NETWORK
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -204,24 +203,24 @@ https://v15.thetvapp.to/hls/TravelChannelEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v15.thetvapp.to/hls/TravelChannelEast/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
 https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY"
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
 https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="ANIME/CARTOONS👽",BOOMERANG TV
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CARTOONITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CARTOONITO
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="ANIME/CARTOONS👽" tvg-id="Boomerang.us",Boomerang
 #EXTVLCOPT:http-origin=https://thetvapp.to
