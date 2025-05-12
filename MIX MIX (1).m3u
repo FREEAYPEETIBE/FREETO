@@ -220,6 +220,8 @@ https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v14.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
+http://supersonictv.live:8080/611366/682256/22177
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/wwe-network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",WWE Network
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
