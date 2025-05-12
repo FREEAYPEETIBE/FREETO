@@ -107,6 +107,11 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BeIN SPORTS USA
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
