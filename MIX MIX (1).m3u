@@ -76,6 +76,10 @@ https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",USA Cartoon Network 1
+http://supersonictv.live:8080/611366/682256/21792
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",USA Cartoon Network 2
+http://supersonictv.live:8080/611366/682256/21793
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
@@ -159,23 +163,23 @@ https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",USA Disney Channel 1
+#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 1
 http://supersonictv.live:8080/611366/682256/21795
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL WEST" tvg-name="USA Disney Channel West LHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",USA Disney Channel 2
+#EXTINF:-1 tvg-id="US: DISNEY CHANNEL WEST" tvg-name="USA Disney Channel West LHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 2
 http://supersonictv.live:8080/611366/682256/21796
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel Paficic" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",USA Disney Channel 3
+#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel Paficic" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 3
 http://supersonictv.live:8080/611366/682256/21797
-#EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",USA Disney Junior UHD
+#EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior UHD
 http://supersonictv.live:8080/611366/682256/21798
-#EXTINF:-1 tvg-id="US: DISNEY JR WEST" tvg-name="USA Disney Junior West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",USA Disney Junior 2
+#EXTINF:-1 tvg-id="US: DISNEY JR WEST" tvg-name="USA Disney Junior West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior 2
 http://supersonictv.live:8080/611366/682256/21799
-#EXTINF:-1 tvg-id="CA: DISNEY JR" tvg-name="USA Disney Junior Pacific" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",USA Disney Junior 3
+#EXTINF:-1 tvg-id="CA: DISNEY JR" tvg-name="USA Disney Junior Pacific" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior 3
 http://supersonictv.live:8080/611366/682256/21800
-#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD UHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",USA Disney XD 1
+#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD UHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 1
 http://supersonictv.live:8080/611366/682256/21801
-#EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",USA Disney XD 2
+#EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 2
 http://supersonictv.live:8080/611366/682256/21802
-#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD Pacific" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",USA Disney XD 3
+#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD Pacific" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 3
 http://supersonictv.live:8080/611366/682256/21803
 #EXTINF:-1 group-title="ANIME/CARTOONS👽" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
