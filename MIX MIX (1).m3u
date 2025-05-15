@@ -76,9 +76,9 @@ https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",USA Cartoon Network 1
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 1
 http://supersonictv.live:8080/611366/682256/21792
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",USA Cartoon Network 2
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 2
 http://supersonictv.live:8080/611366/682256/21793
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
