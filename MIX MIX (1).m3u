@@ -181,10 +181,10 @@ http://supersonictv.live:8080/611366/682256/21801
 http://supersonictv.live:8080/611366/682256/21802
 #EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD Pacific" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 3
 http://supersonictv.live:8080/611366/682256/21803
-#EXTINF:-1 group-title="ANIME/CARTOONS👽" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="ANIME/CARTOONS👽" tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons",NickToons
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="ANIME/CARTOONS👽",USA Nickelodeon UHD
+http://supersonictv.live:8080/611366/682256/21808
+#EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽",USA NickToons UHD
+http://supersonictv.live:8080/611366/682256/21809
 
 #EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" tvg-logo="http://apk.eternaltv.net/icons/5StarMax.us.png" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
 http://supersonictv.live:8080/611366/682256/22878
