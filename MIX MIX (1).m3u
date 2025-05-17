@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA TV PH
-http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-id="US: NBA TV" tvg-name="USA NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",USA NBA TV UHD
+http://supersonictv.live:8080/611366/682256/40409
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
 
