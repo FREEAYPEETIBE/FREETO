@@ -46,10 +46,6 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUpgkD-l892nFWjr_Aq3wI9w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",PBO
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUronALLfaxG0-uasIsq4oGA
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="PH CHANNELS🇵🇭", RPTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqqr0HSHop1SWo4ryG8qUHs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
