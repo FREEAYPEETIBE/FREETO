@@ -31,8 +31,6 @@ https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=Fil
 https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
 https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",PBA RUSH
-http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -43,6 +41,8 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUmVOKvEAUWkYLQPVPRiVBXw
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUl-J-fCT-mH_5RFb7r_wOMk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",ONE SPORTS
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUiTtvCj-Aj6anqMy8oEIEoc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",PBA RUSH
+http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUpgkD-l892nFWjr_Aq3wI9w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",PBO
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUronALLfaxG0-uasIsq4oGA
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="PH CHANNELS🇵🇭", RPTV
@@ -50,7 +50,7 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUronALLfaxG0-uasIsq4oGA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-http://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqqr0HSHop1SWo4ryG8qUHs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",TV5
