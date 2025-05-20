@@ -129,8 +129,12 @@ http://supersonictv.live:8080/611366/682256/22123
 http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",RageTV
+https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
 #EXTINF:-1 tvg-id="US: TNT EAST" tvg-name="USA TNT East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 1
 http://supersonictv.live:8080/611366/682256/22159
 #EXTINF:-1 tvg-id="I245.61340.zap2it.com" tvg-name="USA TNT Pacific" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 2
@@ -241,6 +245,8 @@ http://supersonictv.live:8080/611366/682256/22899
 http://supersonictv.live:8080/611366/682256/22900
 #EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://www.dropbox.com/s/x9rsgfimcqfbdvq/hbo%20zone.png?dl=1" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="SineManila" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="SineManila",SineManila
+https://stream.gia.tv/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Sony Movie Channel",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Start TV",Start TV
