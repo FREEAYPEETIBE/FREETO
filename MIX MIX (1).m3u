@@ -47,6 +47,8 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUpgkD-l892nFWjr_Aq3wI9w
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUronALLfaxG0-uasIsq4oGA
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/HvKsHvx.png group-title="PH CHANNELS🇵🇭", RPTV
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqqr0HSHop1SWo4ryG8qUHs
+#EXTINF:-1 group-title="PH CHANNELS🇵🇭" tvg-id="SineManila" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="SineManila",SineManila
+https://stream.gia.tv/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="PH CHANNELS🇵🇭",TV5
@@ -245,8 +247,6 @@ http://supersonictv.live:8080/611366/682256/22899
 http://supersonictv.live:8080/611366/682256/22900
 #EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://www.dropbox.com/s/x9rsgfimcqfbdvq/hbo%20zone.png?dl=1" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
-#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="SineManila" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="SineManila",SineManila
-https://stream.gia.tv/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Sony Movie Channel",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Start TV",Start TV
