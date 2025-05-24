@@ -29,7 +29,7 @@ https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=Fil
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUh_FRC-XJjmfie0jYUMAOf0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOkt09q.jpeg" group-title="PH CHANNELS🇵🇭",IBC
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUmaPJ1MJRePioJz5pF3xjJ0
-#EXTINF:-1 tvg-logo=https://i.imgur.com/7gWLCuv.jpeg" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gWLCuv.jpeg" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
 https://cdn.ganbaruby23.xyz/stream/restream/jeepneytv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tE3we0i.jpeg" group-title="PH CHANNELS🇵🇭",KAPAMILYA CHANNEL
 https://cdn.ganbaruby23.xyz/stream/restream/kapamilyachannel/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
@@ -45,7 +45,7 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUl-J-fCT-mH_5RFb7r_wOMk
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUiTtvCj-Aj6anqMy8oEIEoc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3uRUJ9.png" group-title="PH CHANNELS🇵🇭",PBA RUSH
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUpgkD-l892nFWjr_Aq3wI9w
-#EXTINF:-1 tvg-logo=https://i.imgur.com/21TcLpj.jpeg" group-title="PH CHANNELS🇵🇭",PBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21TcLpj.jpeg" group-title="PH CHANNELS🇵🇭",PBO
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUronALLfaxG0-uasIsq4oGA
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/oK0CUwH.jpeg" group-title="PH CHANNELS🇵🇭", RPTV
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqqr0HSHop1SWo4ryG8qUHs
