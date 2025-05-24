@@ -58,29 +58,6 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqwo3Tb4pkqMwebl3cowKpk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LtrRn3.jpeg" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUg14QK6btx0NhsvVpJvw8uA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIMAX HD
-http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUm3fj1UCAALITw7hpEIfKAU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
-https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
-https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
-https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
-https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BOOMERANG TV
-https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CARTOONITO
-https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
-https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 1
-http://supersonictv.live:8080/611366/682256/21792
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 2
-http://supersonictv.live:8080/611366/682256/21793
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
@@ -152,23 +129,28 @@ http://supersonictv.live:8080/611366/682256/22162
 #EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
 http://supersonictv.live:8080/611366/682256/22177
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
-https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E9A4Jde.jpeg" group-title="ANIME/CARTOONS👽",ANIMAX HD
+http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUm3fj1UCAALITw7hpEIfKAU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05YGSf9.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
-https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhWvdEz.jpeg" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6WDdGdB.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiYnK7e.jpeg" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
 https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CARTOONITO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="ANIME/CARTOONS👽",BOOMERANG TV
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZEIebZ.jpeg" group-title="ANIME/CARTOONS👽",CARTOONITO
 https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_3000000=8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="ANIME/CARTOONS👽",CRUNHYROLL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNdqQoc.jpeg" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 1
+http://supersonictv.live:8080/611366/682256/21792
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 2
+http://supersonictv.live:8080/611366/682256/21793
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfE5Tmh.jpeg" group-title="ANIME/CARTOONS👽",DREAMWORKS TAGALIZED
+https://cdn.ganbaruby23.xyz/stream/restream/alltv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
 #EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 1
 http://supersonictv.live:8080/611366/682256/21795
 #EXTINF:-1 tvg-id="US: DISNEY CHANNEL WEST" tvg-name="USA Disney Channel West LHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 2
