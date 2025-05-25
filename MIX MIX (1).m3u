@@ -58,43 +58,39 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqwo3Tb4pkqMwebl3cowKpk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LtrRn3.jpeg" group-title="PH CHANNELS🇵🇭",VIVA CINEMA
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUg14QK6btx0NhsvVpJvw8uA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V248Dk.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2q2u9wn.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICAN PICKERS
-https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTvh9T4.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bc4AKhb.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_desktopweb_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_vcid2=512116:413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Game%20Shows&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.18.1&ads.appName=xumo&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pHxWYM0.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tu9eZyC.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pU9yS5I.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v2XMPPS.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asj8Tnl.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4QhhUC.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
 https://tv.iyadix.workers.dev/57256.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/64wlvYw.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jc08wsK.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia-avc1_2499968=15.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vz7aybn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwfTVNa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldzygjn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
-https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -118,11 +114,11 @@ http://supersonictv.live:8080/611366/682256/22123
 http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZv3xIR.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_desktopweb_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991341&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-id="US: TNT EAST" tvg-name="USA TNT East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 1
 http://supersonictv.live:8080/611366/682256/22159
@@ -130,7 +126,7 @@ http://supersonictv.live:8080/611366/682256/22159
 http://supersonictv.live:8080/611366/682256/22160
 #EXTINF:-1 tvg-id="US: TNT WEST" tvg-name="TNT West 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 3
 http://supersonictv.live:8080/611366/682256/22161
-#EXTINF:-1 tvg-id="US: TRAVEL CHANNEL EAST" tvg-name="USA Travel East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/travel-channel-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Travel Channel
+#EXTINF:-1 tvg-id="US: TRAVEL CHANNEL EAST" tvg-name="USA Travel East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/travel-channel-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Travel Channel
 http://supersonictv.live:8080/611366/682256/22162
 #EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
 http://supersonictv.live:8080/611366/682256/22177
@@ -180,9 +176,9 @@ http://supersonictv.live:8080/611366/682256/21808
 #EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽",USA NickToons UHD
 http://supersonictv.live:8080/611366/682256/21809
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",AXN HD 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljTMuVR.png" group-title="MOVIE CHANNELS📺",AXN HD 1
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUlWY31_0rQbqK6L_5KxunRw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",AXN HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IcEJWdj.png" group-title="MOVIE CHANNELS📺",AXN HD 2
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUqhX5HlrdInJu6q93EqQHf0
 #EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" tvg-logo="http://apk.eternaltv.net/icons/5StarMax.us.png" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
 http://supersonictv.live:8080/611366/682256/22878
@@ -202,22 +198,22 @@ http://supersonictv.live:8080/611366/682256/22883
 http://supersonictv.live:8080/611366/682256/22884
 #EXTINF:-1 tvg-id="US: THRILLERMAX EAST" tvg-name="CINEMAX THRILLER MAX UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="MOVIE CHANNELS📺",CINEMAX THRILLER MAX UHD
 http://supersonictv.live:8080/611366/682256/22885
-#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
+#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
 http://supersonictv.live:8080/611366/682256/22091
-#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
+#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
 http://supersonictv.live:8080/611366/682256/22092
-#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
+#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
 http://supersonictv.live:8080/611366/682256/22093
-#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
 http://supersonictv.live:8080/611366/682256/22094
-#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
 http://supersonictv.live:8080/611366/682256/22095
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4kbZal.jpeg" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",Baywatch
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtPPX0S.jpeg group-title="MOVIE CHANNELS📺",Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",MovieSphere
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ze0iYnL.png" group-title="MOVIE CHANNELS📺",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -239,11 +235,11 @@ http://supersonictv.live:8080/611366/682256/22899
 http://supersonictv.live:8080/611366/682256/22900
 #EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://www.dropbox.com/s/x9rsgfimcqfbdvq/hbo%20zone.png?dl=1" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="MOVIE CHANNELS📺",RageTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVJGadO.jpeg" group-title="MOVIE CHANNELS📺",RageTV
 https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Sony Movie Channel",Sony Movie Channel
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/CtHF2pG.jpeg" tvg-name="Sony Movie Channel",Sony Movie Channel
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/HvKsHvx.png" tvg-name="Start TV",Start TV
+#EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Start.TV.us" tvg-logo="https://i.imgur.com/3KeTfBa.jpeg" tvg-name="Start TV",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 tvg-id="US: STARZ EAST" tvg-name="StarZ East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starz-us.png" group-title="MOVIE CHANNELS📺",StarZ 1
 http://supersonictv.live:8080/611366/682256/22918
