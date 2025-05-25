@@ -233,7 +233,7 @@ http://supersonictv.live:8080/611366/682256/22898
 http://supersonictv.live:8080/611366/682256/22899
 #EXTINF:-1 tvg-id="US: HBO SIGNATURE EAST" tvg-name="HBO Signature UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-signature-us.png" group-title="MOVIE CHANNELS📺",HBO Signature UHD
 http://supersonictv.live:8080/611366/682256/22900
-#EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://www.dropbox.com/s/x9rsgfimcqfbdvq/hbo%20zone.png?dl=1" group-title="MOVIE CHANNELS📺",HBO Zone UHD
+#EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://i.imgur.com/UsJxqF4.png" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVJGadO.jpeg" group-title="MOVIE CHANNELS📺",RageTV
 https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
