@@ -88,7 +88,7 @@ https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/mast
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldzygjn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fJuwRQf.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
 https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
@@ -198,15 +198,15 @@ http://supersonictv.live:8080/611366/682256/22883
 http://supersonictv.live:8080/611366/682256/22884
 #EXTINF:-1 tvg-id="US: THRILLERMAX EAST" tvg-name="CINEMAX THRILLER MAX UHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" group-title="MOVIE CHANNELS📺",CINEMAX THRILLER MAX UHD
 http://supersonictv.live:8080/611366/682256/22885
-#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
+#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" tvg-logo="https://i.imgur.com/1tb2VIn.png" group-title="MOVIE CHANNELS📺",FX 1
 http://supersonictv.live:8080/611366/682256/22091
-#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
+#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" tvg-logo="https://i.imgur.com/1tb2VIn.png" group-title="MOVIE CHANNELS📺",FX 2
 http://supersonictv.live:8080/611366/682256/22092
 #EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
 http://supersonictv.live:8080/611366/682256/22093
-#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" tvg-logo="https://i.imgur.com/5Z2C9WZ.png" group-title="MOVIE CHANNELS📺",FXX UHD
 http://supersonictv.live:8080/611366/682256/22094
-#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" tvg-logo="https://i.imgur.com/5Z2C9WZ.png" group-title="MOVIE CHANNELS📺",FXX UHD
 http://supersonictv.live:8080/611366/682256/22095
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l4kbZal.jpeg" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
