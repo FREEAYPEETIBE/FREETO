@@ -3,7 +3,11 @@
 #EXTINF:-1 tvg-id="US: NBA TV" tvg-name="USA NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",USA NBA TV UHD
 http://supersonictv.live:8080/611366/682256/40409
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",NBA TV PHILIPPINES
-http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUtbuksMq7HA9BOuRpcd6LuU
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvKsHvx.png" group-title="NBA🏀",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
 
