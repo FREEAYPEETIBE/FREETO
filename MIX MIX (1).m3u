@@ -14,7 +14,9 @@ https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTpe0Qn.jpeg" group-title="PH CHANNELS🇵🇭",4K TRAVEL
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hVdhGtP.jpeg" group-title="PH CHANNELS🇵🇭",A2Z/ABS CBN
-http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUnxNFti08ol7jvg05GwjahE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNO5leA.jpeg" group-title="PH CHANNELS🇵🇭",ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
