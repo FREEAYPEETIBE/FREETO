@@ -97,7 +97,9 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V248Dk.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ABC AUSTRALIA
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2q2u9wn.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTvh9T4.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
@@ -126,8 +128,6 @@ https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/mast
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldzygjn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJuwRQf.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Pickers
-https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
@@ -259,20 +259,24 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-#EXTINF:-1 tvg-id="US: HBO EAST" tvg-name="HBO East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO UHD 1
-http://supersonictv.live:8080/611366/682256/22894
-#EXTINF:-1 tvg-id="US: HBO WEST" tvg-name="HBO West UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO UHD 2
-http://supersonictv.live:8080/611366/682256/22895
-#EXTINF:-1 tvg-id="US: HBO 2 EAST" tvg-name="HBO 2 East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO 2 UHD
-http://supersonictv.live:8080/611366/682256/22896
+#EXTINF:-1 tvg-id="US: HBO EAST" tvg-name="HBO East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #EXTINF:-1 tvg-id="US: HBO COMEDY EAST" tvg-name="HBO Comedy UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-comedy-us.png" group-title="MOVIE CHANNELS📺",HBO Comedy UHD
 http://supersonictv.live:8080/611366/682256/22897
 #EXTINF:-1 tvg-id="US: HBO FAMILY EAST" tvg-name="HBO Family UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-family-us.png" group-title="MOVIE CHANNELS📺",HBO Family UHD
-http://supersonictv.live:8080/611366/682256/22898
-#EXTINF:-1 tvg-id="" tvg-name="HBO Pacific UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-usa.png" group-title="MOVIE CHANNELS📺",HBO Pacific UHD
-http://supersonictv.live:8080/611366/682256/22899
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #EXTINF:-1 tvg-id="US: HBO SIGNATURE EAST" tvg-name="HBO Signature UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/hbo-signature-us.png" group-title="MOVIE CHANNELS📺",HBO Signature UHD
-http://supersonictv.live:8080/611366/682256/22900
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://i.imgur.com/UsJxqF4.png" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVJGadO.jpeg" group-title="MOVIE CHANNELS📺",RageTV
