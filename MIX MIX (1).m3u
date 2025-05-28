@@ -34,13 +34,19 @@ http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0RqIt0.png" group-title="PH CHANNELS🇵🇭",CINEMO PH
-https://cdn.ganbaruby23.xyz/stream/restream/cinemoph/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Ao4mq5.jpeg" group-title="PH CHANNELS🇵🇭",DZBB SUPER RADYO
 https://dzbb.iyadix.workers.dev/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NmruE2q.png" group-title="PH CHANNELS🇵🇭",GMA
-https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZfWL7vL.jpeg" group-title="PH CHANNELS🇵🇭",GTV
-https://cdn.ganbaruby23.xyz/stream/restream/gtv/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOkt09q.jpeg" group-title="PH CHANNELS🇵🇭",IBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
