@@ -77,8 +77,10 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 #EXTINF:-1 group-title="PH CHANNELS🇵🇭" tvg-id="SineManila" tvg-logo="https://i.imgur.com/lGEs9vn.png" tvg-name="SineManila",SineManila
 https://stream.gia.tv/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IykIG0z.jpeg" group-title="PH CHANNELS🇵🇭",Thrillers
-https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IykIG0z.jpeg" group-title="PH CHANNELS🇵🇭",Thrill
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EuWJlRW.png" group-title="PH CHANNELS🇵🇭",TV5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
