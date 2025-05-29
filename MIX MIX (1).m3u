@@ -189,7 +189,9 @@ http://supersonictv.live:8080/611366/682256/22160
 #EXTINF:-1 tvg-id="US: TNT WEST" tvg-name="TNT West 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 3
 http://supersonictv.live:8080/611366/682256/22161
 #EXTINF:-1 tvg-id="US: TRAVEL CHANNEL EAST" tvg-name="USA Travel East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/travel-channel-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Travel Channel
-http://supersonictv.live:8080/611366/682256/22162
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 #EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
 http://supersonictv.live:8080/611366/682256/22177
 
