@@ -124,6 +124,8 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2q2u9wn.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gWuHmK2.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",All Reality WETV
+https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTvh9T4.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AMERICA FUNNIEST VIDEO
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bc4AKhb.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Ninja Warrior
@@ -154,6 +156,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
 https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkOXfip.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
@@ -201,6 +205,8 @@ http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUm3fj1UCAALITw7hpEIfKAU
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhWvdEz.jpeg" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/rKrS7mp.jpeg" group-title="ANIME/CARTOONS👽",ANIPLUS
+http://iptvid.my.id/avc/ningning111/10232002/aniplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WDdGdB.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiYnK7e.jpeg" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
@@ -248,6 +254,8 @@ http://supersonictv.live:8080/611366/682256/21809
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZhPY4d.jpeg" group-title="MOVIE CHANNELS📺",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" tvg-logo="http://apk.eternaltv.net/icons/5StarMax.us.png" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
 http://supersonictv.live:8080/611366/682256/22878
 #EXTINF:-1 tvg-id="US: CINEMAX EAST" tvg-name="Cinemax East UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE CHANNELS📺",Cinemax UHD 2
