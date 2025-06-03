@@ -130,10 +130,24 @@ https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bc4AKhb.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_desktopweb_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_vcid2=512116:413d7e29-b63e-b34e-b143-bf0efe32f394&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Game%20Shows&ads._fw_content_language=en&ads._fw_content_rating=TV-PG&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=2-Personal_Computer&ads.appVersion=2.18.1&ads.appName=xumo&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318&ads._fw_ifa_type=dpid&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkOXfip.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pHxWYM0.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ARIRANG HD
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlV0WAr.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AsianCrush
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tu9eZyC.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfxFA0J.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BGT
+http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/76170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pU9yS5I.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BOXING TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2XMPPS.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CGTN
@@ -142,38 +156,38 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4QhhUC.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",CI USA
 https://tv.iyadix.workers.dev/57256.m3u8
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/64wlvYw.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY ASIA
 https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jc08wsK.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vz7aybn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/554158e864526b29254ff105/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwfTVNa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FIGHT TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldzygjn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FILAM TV
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvnn6Zu.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",America's Got Talent
-https://dhkq1p9audihq.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PkOXfip.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",American idol
-https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",Aspire
-http://fl3.moveonjoy.com/Aspire/index.m3u8
-#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
-http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x7oh00D.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FOX Sports
+http://212.102.60.10/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IdtrIVE.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Impossible Quiz Show
+https://dbrb49pjoymg4.cloudfront.net/10001/99991781/hls/playlist.m3u8?ads.xumo_channelId=99991781&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=BBCImpossible&ads.csid=xumo_desktopweb_BBCImpossible_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=en&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2645&ads.xumo_contentName=BBCImpossible&ads.xumo_providerId=2645&ads.xumo_providerName=BBCImpossible&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991781&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6r4eB5.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Just for Laugh Gags
 https://dtqutq7lmcchv.cloudfront.net/10001/99991204/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991204&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_desktopweb_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Comedy&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Comedy&ads._fw_content_rating=TV-PG&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991204&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Nyitul.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Just for Laugh TV
 https://live-content.xumo.com/117/content/XM0RPSV42CWRNN/18338945/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFmK4xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Kocowa K-Drama
 https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991348&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Kocowa&ads.csid=xumo_desktopweb_Kocowa_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Action%2CAdventure%2CComedy%2CCrime%2CDrama%2CFamily%2CFantasy%2CHorror%2CMystery%2CRomance%2CSci-Fi%2CThriller%2CWar%2CWestern%2CSuperhero&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=International&ads._fw_content_rating=TV-14&ads.xumo_contentId=285&ads.xumo_contentName=Kocowa&ads.xumo_providerId=285&ads.xumo_providerName=Kocowa&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991348&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tx8rQLA.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",MasterChef US
+http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/330920.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tTlzqJK.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Monster Jam
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ahY2dV.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Museum TV Fast
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="National Geographic East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",USA National Geographic 1
 http://supersonictv.live:8080/611366/682256/22123
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC WEST" tvg-name="USA National Geographic West LHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic 2
@@ -182,8 +196,12 @@ http://supersonictv.live:8080/611366/682256/22124
 http://supersonictv.live:8080/611366/682256/22125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xHnd0jJ.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Popstar! TV
+https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",Pursuit Channel
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLEC3ea.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CZv3xIR.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_desktopweb_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991341&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-id="US: TNT EAST" tvg-name="USA TNT East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 1
@@ -198,7 +216,15 @@ http://supersonictv.live:8080/611366/682256/22161
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 #EXTINF:-1 tvg-id="DLEO 02:" tvg-name="USA UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",UFC Network
 http://supersonictv.live:8080/611366/682256/22177
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcMyAHi.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wall of Chefs
+https://jmp2.uk/plu-62fb66c867976d0007647e54.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/QC8ZPjB.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wipe out Extra
+https://dbrb49pjoymg4.cloudfront.net/10001/99951129/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951129&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WipeoutXtra&ads.csid=xumo_desktopweb_WipeoutXtra_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Game%20Show%2CFamily&ads._fw_content_category=IAB1-7&ads._fw_content_language=undefined&ads._fw_content_genre=Game%20Shows&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=3543&ads.xumo_contentName=WipeoutXtra&ads.xumo_providerId=3543&ads.xumo_providerName=WipeoutXtra&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99951129&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.1&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0RMCiKT.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Wonder TV
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/fUam5al.jpeg" group-title="ANIME/CARTOONS👽",All Babies Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991253/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991253&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=HooplaKids&ads.csid=xumo_desktopweb_HooplaKids_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=186&ads.xumo_contentName=HooplaKids&ads.xumo_providerId=186&ads.xumo_providerName=HooplaKids&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991253&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9A4Jde.jpeg" group-title="ANIME/CARTOONS👽",ANIMAX HD
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUm3fj1UCAALITw7hpEIfKAU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05YGSf9.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
@@ -213,6 +239,8 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/09a20cb2-e0e7-4e17-afdb-aa6b35ce6da0/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6FA5Sr.jpeg" group-title="ANIME/CARTOONS👽",BOOMERANG TV
 https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/Wyj8Zjb.jpeg" group-title="ANIME/CARTOONS👽",Brat TV
+https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CZEIebZ.jpeg" group-title="ANIME/CARTOONS👽",CARTOONITO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -245,10 +273,18 @@ http://supersonictv.live:8080/611366/682256/21801
 http://supersonictv.live:8080/611366/682256/21802
 #EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD Pacific" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 3
 http://supersonictv.live:8080/611366/682256/21803
-#EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="ANIME/CARTOONS👽",USA Nickelodeon UHD
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/C4X5MLO.png" group-title="ANIME/CARTOONS👽",Free Kids Tv
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991107&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=XumoFreeKidsTV&ads.csid=xumo_desktopweb_XumoFreeKidsTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-G&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeKidsTV&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeKidsTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991107&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/ZHdGydg.png" group-title="ANIME/CARTOONS👽",Kartoon Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GeniusBrandsNew&ads.csid=xumo_desktopweb_NBCUUniversalCrime_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=2682&ads.xumo_contentName=GeniusBrandsNew&ads.xumo_providerId=2682&ads.xumo_providerName=GeniusBrandsNew&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991327&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/g0aUnfA.jpeg" group-title="ANIME/CARTOONS👽",Moonbug
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="US: NICKELODEON EAST" tvg-name="USA Nickelodeon UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="ANIME/CARTOONS👽",Nickelodeon UHD
 http://supersonictv.live:8080/611366/682256/21808
-#EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽",USA NickToons UHD
+#EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽",NickToons UHD
 http://supersonictv.live:8080/611366/682256/21809
+#EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/eXQdHQD.jpeg" group-title="ANIME/CARTOONS👽",Teletubbies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991761/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991761&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WildBrain&ads.csid=xumo_desktopweb_WildBrain_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=1854&ads.xumo_contentName=WildBrain&ads.xumo_providerId=1854&ads.xumo_providerName=WildBrain&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991761&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljTMuVR.png" group-title="MOVIE CHANNELS📺",AXN HD 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
