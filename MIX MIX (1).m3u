@@ -344,6 +344,14 @@ http://supersonictv.live:8080/611366/682256/22094
 http://supersonictv.live:8080/611366/682256/22095
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l4kbZal.jpeg" group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8BB8-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 #EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gtPPX0S.jpeg group-title="MOVIE CHANNELS📺",Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
