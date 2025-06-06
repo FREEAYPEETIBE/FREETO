@@ -204,6 +204,18 @@ https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLEC3ea.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",SportsGrid
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC790-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap Edge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6624-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC592-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", Tap TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CZv3xIR.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_desktopweb_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991341&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-id="US: TNT EAST" tvg-name="USA TNT East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 1
@@ -393,6 +405,15 @@ http://supersonictv.live:8080/611366/682256/22929
 http://supersonictv.live:8080/611366/682256/22930
 #EXTINF:-1 tvg-id="US: STARZENCORE SUSPENSE" tvg-name="Starz Encore Suspense UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starz-us.png" group-title="MOVIE CHANNELS📺",Starz Encore Suspense UHD
 http://supersonictv.live:8080/611366/682256/22931
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC790-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Tap Action Flix HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=203" group-title="MOVIE CHANNELS📺", Tap Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6pOlmCO.jpeg" group-title="SKY STORE",SKY STORE PREMIERE 1
 http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791636
