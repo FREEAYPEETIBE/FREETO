@@ -381,6 +381,8 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="US: HBO ZONE EAST" tvg-name="HBO Zone UHD" tvg-logo="https://i.imgur.com/UsJxqF4.png" group-title="MOVIE CHANNELS📺",HBO Zone UHD
 http://supersonictv.live:8080/611366/682256/22901
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gGbiY5u.png" group-title="MOVIE CHANNELS📺",Hi-Yah!
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVJGadO.jpeg" group-title="MOVIE CHANNELS📺",RageTV
 https://stream.gia.tv/giatv/giatv-ragetv/ragetv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE CHANNELS📺" tvg-id="Sony.Movies.us" tvg-logo="https://i.imgur.com/CtHF2pG.jpeg" tvg-name="Sony Movie Channel",Sony Movie Channel
