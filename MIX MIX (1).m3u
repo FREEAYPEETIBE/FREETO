@@ -146,6 +146,7 @@ https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainMan
 http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1  tvg-name="Bellator MMA" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Bellator MMA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tu9eZyC.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfxFA0J.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BGT
@@ -166,6 +167,8 @@ https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+#EXTINF:-1  tvg-name="Dog Whisperer with Cesar Millan" tvg-id="664fd48894d5580008e45e7c" tvg-logo="https://images.pluto.tv/channels/664fd48894d5580008e45e7c/colorLogoPNG.png" tvg-chno="3625" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Dog Whisperer with Cesar Millan
+https://jmp2.uk/plu-664fd48894d5580008e45e7c.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vz7aybn.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",FAIL ARMY
@@ -196,6 +199,8 @@ http://supersonictv.live:8080/611366/682256/22123
 http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
+#EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ONE Championship TV
+https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xHnd0jJ.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Popstar! TV
@@ -303,6 +308,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 http://supersonictv.live:8080/611366/682256/21808
 #EXTINF:-1 tvg-id="US: NICKTOONS EAST" tvg-name="USA NickToons UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="ANIME/CARTOONS👽",NickToons UHD
 http://supersonictv.live:8080/611366/682256/21809
+#EXTINF:-1  tvg-name="PokÃ©mon" tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvg-chno="3805" group-title="ANIME/CARTOONS👽",Pokemon Tv
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/eXQdHQD.jpeg" group-title="ANIME/CARTOONS👽",Teletubbies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991761/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991761&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WildBrain&ads.csid=xumo_desktopweb_WildBrain_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=1854&ads.xumo_contentName=WildBrain&ads.xumo_providerId=1854&ads.xumo_providerName=WildBrain&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991761&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEwof7I.jpeg" group-title="ANIME/CARTOONS👽",TOM AND JERRY 24/7
