@@ -124,6 +124,8 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/adult-swim.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Adult Swim
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTUvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2q2u9wn.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWuHmK2.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",All Reality WETV
