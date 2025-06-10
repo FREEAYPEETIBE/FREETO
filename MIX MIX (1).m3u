@@ -149,6 +149,8 @@ http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="NEWS/ENTERTAINMEN/DOCUMENTARY" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1  tvg-name="Bellator MMA" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1  tvg-name="Bellator MMA" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Bellator MMA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tu9eZyC.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BILLIARD TV
 https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/c4e6753c-6014-4551-bef0-f212872de6a4/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfxFA0J.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",BGT
