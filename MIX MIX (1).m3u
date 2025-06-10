@@ -324,6 +324,8 @@ http://supersonictv.live:8080/611366/682256/21808
 http://supersonictv.live:8080/611366/682256/21809
 #EXTINF:-1  tvg-name="PokÃ©mon" tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" tvg-chno="3805" group-title="ANIME/CARTOONS👽",Pokemon Tv
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+#EXTINF:-1  tvg-name="POP UP" tvg-id="664c953db18d700008fcc158" tvg-logo="https://images.pluto.tv/channels/664c953db18d700008fcc158/colorLogoPNG.png" tvg-chno="892" group-title="ANIME/CARTOONS👽",POP UP
+https://jmp2.uk/plu-664c953db18d700008fcc158.m3u8
 #EXTINF:-1  tvg-name="Retro Crush" tvg-id="65e9ced78145cb00084d6598" tvg-logo="https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png" tvg-chno="783" group-title="ANIME/CARTOONS👽",Retro Crush
 https://jmp2.uk/plu-65e9ced78145cb00084d6598.m3u8
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/eXQdHQD.jpeg" group-title="ANIME/CARTOONS👽",Teletubbies
