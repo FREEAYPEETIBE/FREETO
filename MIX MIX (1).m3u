@@ -279,9 +279,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNdqQoc.jpeg" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
 #EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 1
-http://supersonictv.live:8080/611366/682256/21792
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK WEST" tvg-name="Cartoon Network West" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 2
-http://supersonictv.live:8080/611366/682256/21793
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfE5Tmh.jpeg" group-title="ANIME/CARTOONS👽",DREAMWORKS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
