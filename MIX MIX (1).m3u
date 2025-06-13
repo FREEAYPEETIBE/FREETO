@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="US: NBA TV" tvg-name="USA NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",USA NBA TV UHD
-http://supersonictv.live:8080/611366/682256/40409
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00MDQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="NBA🏀",NBA TV PHILIPPINES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
