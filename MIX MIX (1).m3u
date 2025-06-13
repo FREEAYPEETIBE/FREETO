@@ -201,12 +201,10 @@ http://restream-live.realiptv.to:8080/live/xmltv/02a162774b/330920.m3u8
 https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ahY2dV.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Museum TV Fast
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="National Geographic East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",USA National Geographic 1
-http://supersonictv.live:8080/611366/682256/22123
-#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC WEST" tvg-name="USA National Geographic West LHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic 2
-http://supersonictv.live:8080/611366/682256/22124
+#EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="National Geographic East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",USA National Geographic
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMjgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="US: NATIONAL GEOGRAPHIC EAST" tvg-name="USA National Geographic Wild East UHD" tvg-logo="http://epg4you.com/logos/nationalgeographic.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",National Geographic Wild
-http://supersonictv.live:8080/611366/682256/22125
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NDUvbW9uby5tM3U4.m3u8
 #EXTINF:-1  tvg-name="ONE Championship TV" tvg-id="668c5d3bfd9eb2000882bb50" tvg-logo="https://images.pluto.tv/channels/668c5d3bfd9eb2000882bb50/colorLogoPNG.png" tvg-chno="2875" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",ONE Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YAMQ5xA.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",People are Awesome
@@ -231,12 +229,16 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CZv3xIR.jpeg" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY", TNT WRESTLING CHANNEL
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=AnthemSportsIMPACTWrestling&ads.csid=xumo_desktopweb_AnthemSportsIMPACTWrestling_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads.genre=Sport&ads._fw_content_category=IAB17-20&ads._fw_content_language=undefined&ads._fw_content_genre=Combat%20Sports&ads._fw_content_rating=TV-PG&ads.xumo_contentId=2073&ads.xumo_contentName=AnthemSportsIMPACTWrestling&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991341&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
-#EXTINF:-1 tvg-id="US: TNT EAST" tvg-name="USA TNT East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 1
-http://supersonictv.live:8080/611366/682256/22159
-#EXTINF:-1 tvg-id="I245.61340.zap2it.com" tvg-name="USA TNT Pacific" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 2
-http://supersonictv.live:8080/611366/682256/22160
-#EXTINF:-1 tvg-id="US: TNT WEST" tvg-name="TNT West 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT 3
-http://supersonictv.live:8080/611366/682256/22161
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 1
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 2
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 3
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT Sports 4
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-usa.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",TNT USA
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMzgvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="US: TRAVEL CHANNEL EAST" tvg-name="USA Travel East UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/travel-channel-us.png" group-title="NEWS/ENTERTAINMEN/DOCUMENTARY",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
