@@ -278,7 +278,7 @@ https://brat-samsung-us.amagi.tv/720p-vtt/index.m3u8
 http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNdqQoc.jpeg" group-title="ANIME/CARTOONS👽",CRUNHYROLL
 https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8
-#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network 1
+#EXTINF:-1 tvg-id="US: CARTOON NETWORK EAST" tvg-name="Cartoon Network UHD" tvg-logo="http://epg4you.com/logos/cartoonnetwork.png" group-title="ANIME/CARTOONS👽",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
@@ -290,24 +290,12 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 1
-http://supersonictv.live:8080/611366/682256/21795
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL WEST" tvg-name="USA Disney Channel West LHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 2
-http://supersonictv.live:8080/611366/682256/21796
-#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel Paficic" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel 3
-http://supersonictv.live:8080/611366/682256/21797
+#EXTINF:-1 tvg-id="US: DISNEY CHANNEL EAST" tvg-name="USA Disney Channel East UHD" tvg-logo="http://epg4you.com/logos/disneychannel.png" group-title="ANIME/CARTOONS👽",Disney Channel
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTIvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="US: DISNEY JR EAST" tvg-name="USA Disney Junior UHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior UHD
-http://supersonictv.live:8080/611366/682256/21798
-#EXTINF:-1 tvg-id="US: DISNEY JR WEST" tvg-name="USA Disney Junior West LHD" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior 2
-http://supersonictv.live:8080/611366/682256/21799
-#EXTINF:-1 tvg-id="CA: DISNEY JR" tvg-name="USA Disney Junior Pacific" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/disney-junior.png" group-title="ANIME/CARTOONS👽",Disney Junior 3
-http://supersonictv.live:8080/611366/682256/21800
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjUyL21vbm8ubTN1OA==.m3u8
 #EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD UHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 1
-http://supersonictv.live:8080/611366/682256/21801
-#EXTINF:-1 tvg-id="US: DISNEY XD WEST" tvg-name="USA Disney XD West LHD" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 2
-http://supersonictv.live:8080/611366/682256/21802
-#EXTINF:-1 tvg-id="US: DISNEY XD EAST" tvg-name="USA Disney XD Pacific" tvg-logo="http://epg4you.com/logos/disneyxd.png" group-title="ANIME/CARTOONS👽",Disney XD 3
-http://supersonictv.live:8080/611366/682256/21803
+https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMTQvbW9uby5tM3U4.m3u8
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/C4X5MLO.png" group-title="ANIME/CARTOONS👽",Free Kids Tv
 https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991107&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=XumoFreeKidsTV&ads.csid=xumo_desktopweb_XumoFreeKidsTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-G&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeKidsTV&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeKidsTV&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991107&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1  tvg-name="Garfield and Friends" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-chno="3910" group-title="ANIME/CARTOONS👽",Garfield and Friends
