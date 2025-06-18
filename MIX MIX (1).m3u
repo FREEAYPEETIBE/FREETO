@@ -259,13 +259,17 @@ https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/fUam5al.jpeg" group-title="ANIME/CARTOONS👽",All Babies Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99991253/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991253&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=HooplaKids&ads.csid=xumo_desktopweb_HooplaKids_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y&ads.xumo_contentId=186&ads.xumo_contentName=HooplaKids&ads.xumo_providerId=186&ads.xumo_providerName=HooplaKids&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991253&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9A4Jde.jpeg" group-title="ANIME/CARTOONS👽",ANIMAX HD
-http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUm3fj1UCAALITw7hpEIfKAU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/05YGSf9.png" group-title="ANIME/CARTOONS👽",ANIME ALL DAY
 https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhWvdEz.jpeg" group-title="ANIME/CARTOONS👽",ANIME * HIDAVE
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
 #EXTINF:-1 tvg-id="US: ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/rKrS7mp.jpeg" group-title="ANIME/CARTOONS👽",ANIPLUS
-http://iptvid.my.id/avc/ningning111/10232002/aniplus.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6WDdGdB.png" group-title="ANIME/CARTOONS👽",BABY SHARK TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiYnK7e.jpeg" group-title="ANIME/CARTOONS👽",BARBIE AND FRIENDS
