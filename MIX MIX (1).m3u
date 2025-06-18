@@ -50,9 +50,9 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 #EXTINF:-1  tvg-name="Heart of Asia" tvg-id="iptv/heartofasia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/400px-Heart_of_Asia_logo.svg.png" group-title="PH CHANNELS🇵🇭",Heart of Asia
 https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WOkt09q.jpeg" group-title="PH CHANNELS🇵🇭",IBC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gWLCuv.jpeg" group-title="PH CHANNELS🇵🇭",JEEPNEY TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
